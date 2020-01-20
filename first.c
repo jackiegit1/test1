@@ -3,5 +3,5 @@
 void main()
 {
 	printf("hello world\n");
-	printf("byebye\n");
+	printf("byebye,xxxyyyzz\n");
 }
