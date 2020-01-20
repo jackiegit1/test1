@@ -1,0 +1,2 @@
+2020-01-20：
+git pull test1 master --allow-unrelated-histories //远程库和本地库为两个库，合并并且代码同步到本地
